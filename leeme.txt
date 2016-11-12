@@ -1,0 +1,3 @@
+Para importar los usuarios del henry se debe llenar el excel que se encuentra en la carpeta insumos.
+Se debe cambiar la ruta al excel en la clase BulkUserRegistration.
+Para iniciar la importacion ejecutar la clase BulkUserRegistration.

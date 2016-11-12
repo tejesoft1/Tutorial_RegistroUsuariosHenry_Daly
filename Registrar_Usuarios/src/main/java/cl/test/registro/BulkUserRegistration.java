@@ -17,8 +17,9 @@ public class BulkUserRegistration {
 		// TODO Auto-generated method stub
 		 try
 	        {
+			    String rutaFichero="D:\\henry\\listado de usuarios a ingresar.xlsx";
 			    System.out.println("INICIADO LECTURA DE FICHERO DE USUARIOS");
-	            FileInputStream file = new FileInputStream(new File("D:\\henry\\listado de usuarios a ingresar.xlsx"));
+	            FileInputStream file = new FileInputStream(new File(rutaFichero));
 	 
 	            //Create Workbook instance holding reference to .xlsx file
 	            XSSFWorkbook workbook = new XSSFWorkbook(file);
