@@ -1,3 +1,4 @@
-Para importar los usuarios del henry se debe llenar el excel que se encuentra en la carpeta insumos.
-Se debe cambiar la ruta al excel en la clase BulkUserRegistration.
-Para iniciar la importacion ejecutar la clase BulkUserRegistration.
+1-Importar proyecto con eclipse
+2-Para importar los usuarios del henry se debe llenar el excel que se encuentra en la carpeta insumos.
+3-Se debe cambiar la ruta al excel en la clase BulkUserRegistration.
+4-Para iniciar la importacion ejecutar la clase BulkUserRegistration.
